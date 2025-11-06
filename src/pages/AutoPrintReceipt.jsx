@@ -2,7 +2,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
-import logo from "/logo_v.jpeg";
+import logo from "/Logo.png";
 
 /**
  * AutoPrintReceipt
